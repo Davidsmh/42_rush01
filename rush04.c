@@ -6,7 +6,7 @@
 /*   By: dschwarz <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/04 13:21:03 by dschwarz          #+#    #+#             */
-/*   Updated: 2018/08/05 01:17:11 by dschwarz         ###   ########.fr       */
+/*   Updated: 2018/08/05 01:43:56 by dschwarz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -102,6 +102,6 @@ void	print_rush04(int x, int y)
 
 int		main(void)
 {
-	print_rush04(1, 1);
+	print_rush04(5, 3);
 	return (0);
 }
